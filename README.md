@@ -1,11 +1,11 @@
 #  Backend-tracker
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmain&label=Project%20viewed&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=backend-tracker&label=backend-tracker-calculator&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-The backend tracker for this [calculator project](https://github.com/reprogamaco/calculator). Notably, this tracking functionality has been removed for enhanced user privacy.
+The backend tracker for this [calculator project](https://github.com/isaka-james/calculator). Notably, this tracking functionality has been removed for enhanced user privacy.
 
 ## ⚠️ Scalability Important
  - The tracker is made in such a way it can be scalable to any project.
@@ -38,7 +38,7 @@ To install and run the backend, follow these steps:
 1. **Get the project:**
    
 ```bash
-   git clone https://github.com/reprogamaco/backend-tracker-for-calculator.git
+   git clone https://github.com/isaka-james/backend-tracker-for-calculator.git
    cd backend-tracker-for-calculator
 ```
 
